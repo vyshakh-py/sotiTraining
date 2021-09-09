@@ -35,7 +35,7 @@ class Program
         
         static void Main(string[] args)
         {
-            // initializing variables
+           
 
             int num = 100;
             float rate = 10.2f;
@@ -54,7 +54,7 @@ class Program
            
 
 
-            // if example
+          
             int i = 10, j = 20;
 
             if (i < j)
@@ -67,16 +67,9 @@ class Program
                 Console.WriteLine("i is greater than j");
             }
 
-            // ternary operator
+         
 
-            int x = 20, y = 10;
-
-            var result = x > y ? "x is greater than y" : "x is less than y";
-
-            Console.WriteLine(result);
-
-            // switch
-
+            
             x = 5;
 
             switch (x)
