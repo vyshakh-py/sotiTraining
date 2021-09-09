@@ -15,14 +15,13 @@ namespace ConsoleApp1
 
         private string maker;
         private string model { get; set; }
-        
         private string abc { get; set; }
         private int def { get; set; }
         private int xyz { get; set; }
         public string abcd { get; set; }
        
 
-        public string makerProperty
+        public string Property
         {
             get { return maker; }
             set { maker = value; }
@@ -70,7 +69,7 @@ class Program
          
 
             
-            x = 5;
+            int x = 5;
 
             switch (x)
             {
