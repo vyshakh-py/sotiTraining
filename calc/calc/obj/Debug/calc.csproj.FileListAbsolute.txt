@@ -1,0 +1,7 @@
+C:\Users\vysha\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\vysha\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\vysha\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\vysha\source\repos\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\vysha\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\vysha\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\vysha\source\repos\calc\calc\obj\Debug\calc.pdb
