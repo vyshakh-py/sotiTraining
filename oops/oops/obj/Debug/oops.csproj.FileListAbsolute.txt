@@ -1,0 +1,7 @@
+C:\Users\vysha\source\repos\oops\oops\bin\Debug\oops.exe.config
+C:\Users\vysha\source\repos\oops\oops\bin\Debug\oops.exe
+C:\Users\vysha\source\repos\oops\oops\bin\Debug\oops.pdb
+C:\Users\vysha\source\repos\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+C:\Users\vysha\source\repos\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+C:\Users\vysha\source\repos\oops\oops\obj\Debug\oops.exe
+C:\Users\vysha\source\repos\oops\oops\obj\Debug\oops.pdb

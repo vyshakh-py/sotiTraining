@@ -1,0 +1,7 @@
+C:\Users\vysha\source\repos\polyMorph\polyMorph\bin\Debug\polyMorph.exe.config
+C:\Users\vysha\source\repos\polyMorph\polyMorph\bin\Debug\polyMorph.exe
+C:\Users\vysha\source\repos\polyMorph\polyMorph\bin\Debug\polyMorph.pdb
+C:\Users\vysha\source\repos\polyMorph\polyMorph\obj\Debug\polyMorph.csproj.AssemblyReference.cache
+C:\Users\vysha\source\repos\polyMorph\polyMorph\obj\Debug\polyMorph.csproj.CoreCompileInputs.cache
+C:\Users\vysha\source\repos\polyMorph\polyMorph\obj\Debug\polyMorph.exe
+C:\Users\vysha\source\repos\polyMorph\polyMorph\obj\Debug\polyMorph.pdb
